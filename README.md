@@ -13,8 +13,6 @@ This project features a U-Net based deep learning model for MRI image segmentati
 
 The Brain MRI segmentation dataset from Kaggle is a comprehensive collection of MRI scans specifically designed for the task of segmenting brain tissues. This dataset includes a variety of images with annotated labels, providing ground truth for different tissue types. It serves as an essential resource for training and evaluating machine learning models in medical image segmentation. The high-quality annotations and diversity of the scans make it ideal for developing robust and accurate segmentation algorithms.
 
-## Model Overview
-
  ## Model Architecture
 
 The U-Net architecture is composed of two main parts:
