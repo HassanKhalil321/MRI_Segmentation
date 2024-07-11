@@ -1,7 +1,7 @@
 ## MRI_Image_Segmentation
 
 <div align="center">
-  <img src="https://github.com/HassanKhalil321/MRI_Image_Segmentation/blob/main/assets/model%20show.jpg" width="800" hight="400"/>
+  <img src="https://github.com/HassanKhalil321/MRI_Segmentation/blob/main/assets/model%20show.jpg" width="800" hight="400"/>
 </div>
 
 
@@ -40,10 +40,10 @@ The decoder is responsible for upsampling the encoded feature maps back to the o
 
 ## Loss
 <div align="center">
-  <img src="https://github.com/HassanKhalil321/MRI_Image_Segmentation/blob/main/assets/CCE.jpg" width="400"/>
+  <img src="https://github.com/HassanKhalil321/MRI_Segmentation/blob/main/assets/CCE.jpg" width="400"/>
 </div>
 
 ## Results
 <div align="center">
-  <img src="https://github.com/HassanKhalil321/MRI_Image_Segmentation/blob/main/assets/testttt.png" alt="Gesture Recognition" width="500"/>
+  <img src="https://github.com/HassanKhalil321/MRI_Segmentation/blob/main/assets/testttt.png" alt="Gesture Recognition" width="500"/>
 </div>
